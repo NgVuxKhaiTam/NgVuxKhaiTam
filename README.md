@@ -16,6 +16,15 @@
 - 🔬 **Research:** Selective Inference · LLM for Automating Pentest  
 - 🏆 **Competitions:** Kaggle Home Credit (🥈 Silver), Kaggle LLM 20 Questions (🥉 Bronze), VSC 2021 Winner  
 
+## 👷‍♂️ Internships & Research Experience
+- **Research Intern – Information Security Lab (InSecLab), UIT** · *Jan 2024 – Jul 2024*  
+  Explored LLM‑driven automated pentest with Team Wanna.W1n.  
+  Lab page: <https://www.facebook.com/inseclab>  
+
+- **Undergraduate Researcher – Selective Inference Group, UIT** · *Aug 2024 – Present*  
+  Developing post‑transfer selective inference methods under the supervision of **Dr. Võ Nguyễn Lê Duy**.  
+  Advisor: <https://vonguyenleduy.github.io/>  
+
 ## 🔬 Publications
 - **Selective Inference for Transfer Learning** – under review at *Statistics and Computing*, 2025 – arXiv preprint [[2504.18212]](https://arxiv.org/pdf/2504.18212)  
 - **MAVERICS: A CPU‑Friendly Multimodal Event Retrieval System** – *SOICT 2024* [[paper]](https://link.springer.com/chapter/10.1007/978-981-96-4291-5_12)  
