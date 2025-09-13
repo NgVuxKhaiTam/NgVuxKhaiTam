@@ -34,7 +34,7 @@
 
 👉 See `docs/publications.md` for the full list & BibTeX.
 
-## 🚀 Selected Projects
+## 🚀 Projects
 | Year | Project | Tech | Links |
 |------|---------|------|------|
 | 2024 | **MAVERICS**: Multimodal event retrieval | BLIP2, YOLOWorldv2, PP-OCR, WhisperX | [paper](https://link.springer.com/chapter/10.1007/978-981-96-4291-5_12) · [code](https://github.com/NgVuxKhaiTam/MAVERICS) |
