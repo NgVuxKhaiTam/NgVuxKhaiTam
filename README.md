@@ -23,7 +23,7 @@
   Fine-tuned mid-sized open LLMs on a pentest corpus; prototyped multi-agent LLM workflows for autonomous pentest. :contentReference[oaicite:0]{index=0}
 
 - **Undergraduate Researcher — Selective Inference Group, UIT** · *Aug 2024 – Present*  
-  Working on post-transfer selective inference under **Dr. Vo Nguyen Le Duy**. :contentReference[oaicite:1]{index=1}
+  Working on post-transfer selective inference under **Dr. Vo Nguyen Le Duy**.
 
 ## 🔬 Publications
 - **Post-Transfer Learning Statistical Inference in High-Dimensional Regression** — arXiv, 2025.  
