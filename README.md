@@ -20,17 +20,17 @@
   Built an end-to-end pipeline for contract clause/entity extraction (OCR → VLM/LLM + tool calling → JSON → SQL).
 
 - **Research Intern — UIT InSecLab** · *Jan 2025 – May 2025*  
-  Fine-tuned mid-sized open LLMs on a pentest corpus; prototyped multi-agent LLM workflows for autonomous pentest. :contentReference[oaicite:0]{index=0}
+  Fine-tuned mid-sized open LLMs on a pentest corpus; prototyped multi-agent LLM workflows for autonomous pentest.
 
 - **Undergraduate Researcher — Selective Inference Group, UIT** · *Aug 2024 – Present*  
   Working on post-transfer selective inference under **Dr. Vo Nguyen Le Duy**.
 
 ## 🔬 Publications
 - **Post-Transfer Learning Statistical Inference in High-Dimensional Regression** — arXiv, 2025.  
-  Tam, My, & Duy. [[arXiv:2504.18212]](https://arxiv.org/abs/2504.18212) :contentReference[oaicite:2]{index=2}
+  Tam, My, & Duy. [[arXiv:2504.18212]](https://arxiv.org/abs/2504.18212)
 
 - **MAVERICS: A CPU-Friendly Multimodal Event Retrieval System** — in *Information and Communication Technology (SOICT 2024)*, CCIS 2353, Springer.  
-  [[chapter]](https://link.springer.com/chapter/10.1007/978-981-96-4291-5_12) :contentReference[oaicite:3]{index=3}
+  [[chapter]](https://link.springer.com/chapter/10.1007/978-981-96-4291-5_12)
 
 👉 See `docs/publications.md` for the full list & BibTeX.
 
