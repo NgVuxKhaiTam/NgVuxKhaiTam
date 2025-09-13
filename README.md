@@ -37,7 +37,7 @@
 ## 🚀 Selected Projects
 | Year | Project | Tech | Links |
 |------|---------|------|------|
-| 2024 | **MAVERICS**: Multimodal event retrieval | BLIP2, YOLOWorldv2, PP-OCR, WhisperX | [paper](https://link.springer.com/chapter/10.1007/978-981-96-4291-5_12) · [code](https://github.com/NgVuxKhaiTam/MAVERICS) :contentReference[oaicite:4]{index=4} |
+| 2024 | **MAVERICS**: Multimodal event retrieval | BLIP2, YOLOWorldv2, PP-OCR, WhisperX | [paper](https://link.springer.com/chapter/10.1007/978-981-96-4291-5_12) · [code](https://github.com/NgVuxKhaiTam/MAVERICS) |
 | 2024 | **Home Credit – Credit Risk Model Stability** | LightGBM, CatBoost, FE | [notebook](https://github.com/NgVuxKhaiTam/CS116.O22_PythonforML_Home-Credit-Risk-Kaggle) |
 | 2024 | **Motorbike Brand Classification** | DINOv2, PyTorch | [code](https://github.com/NgVuxKhaiTam/CS114.O21-MachineLearning/tree/main/Competition1_2_3) |
 
