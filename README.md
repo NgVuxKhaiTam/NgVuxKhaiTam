@@ -1,61 +1,55 @@
-
 <div align="center">
 
-# 👋 Xin chào, mình là **Nguyễn Vũ Khai Tâm**  
-*AI Student @ UIT · Researcher in Selective Inference & LLM‑Driven Pentest*
+# 👋 Hi, I'm **Nguyen Vu Khai Tam**  
+*AI Student @ UIT · Research in Selective Inference & LLM-Driven Pentest*
 
-[![Profile views](https://komarev.com/ghpvc/?username=NgVuxKhaiTam&color=blue)](https://github.com/NgVuxKhaiTam) 
-[![GitHub followers](https://img.shields.io/github/followers/NgVuxKhaiTam?style=social)](https://github.com/NgVuxKhaiTam)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-Silver%20%26%20Bronze-blue?logo=kaggle)](https://www.kaggle.com/) 
-[![Website](https://img.shields.io/badge/Portfolio-Online-brightgreen)](https://NgVuxKhaiTam.github.io)  
+[![Profile views](https://komarev.com/ghpvc/?username=NgVuxKhaiTam&color=blue)](https://github.com/NgVuxKhaiTam)
+[![GitHub followers](https://img.shields.io/github/followers/NgVuxKhaiTam?style=social)](https://github.com/NgVuxKhaiTam)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?logo=kaggle)](https://www.kaggle.com/)
+[![Website](https://img.shields.io/badge/Portfolio-Online-brightgreen)](https://NgVuxKhaiTam.github.io)
 
 </div>
 
-## 📝 About Me
-- 🎓 AI sophomore at University of Information Technology (VNU‑HCM)  
-- 🔬 **Research:** Selective Inference · LLM for Automating Pentest  
-- 🏆 **Competitions:** Kaggle Home Credit (🥈 Silver), Kaggle LLM 20 Questions (🥉 Bronze), VSC 2021 Winner  
+## 📝 About
+- 🎓 BSc in Artificial Intelligence (2022–present), University of Information Technology, VNU-HCM  
+- 🔬 Interests: Post-transfer **Selective Inference**, trustworthy ML; **agentic LLMs** for security automation  
+- 🏆 Enjoy data challenges & applied research
 
-## 👷‍♂️ Internships & Research Experience
-- **Research Intern – Information Security Lab (InSecLab), UIT** · *Jan 2024 – Jul 2024*  
-  Explored LLM‑driven automated pentest with Team Wanna.W1n.  
-  Lab page: <https://www.facebook.com/inseclab>  
+## 👷 Experience
+- **AI Engineer Intern — PVCFC (Digital Transformation & IT)** · *May 2025 – Aug 2025*  
+  Built an end-to-end pipeline for contract clause/entity extraction (OCR → VLM/LLM + tool calling → JSON → SQL).
 
-- **Undergraduate Researcher – Selective Inference Group, UIT** · *Aug 2024 – Present*  
-  Developing post‑transfer selective inference methods under the supervision of **Dr. Võ Nguyễn Lê Duy**.  
-  Advisor: <https://vonguyenleduy.github.io/>  
+- **Research Intern — UIT InSecLab** · *Jan 2025 – May 2025*  
+  Fine-tuned mid-sized open LLMs on a pentest corpus; prototyped multi-agent LLM workflows for autonomous pentest. :contentReference[oaicite:0]{index=0}
+
+- **Undergraduate Researcher — Selective Inference Group, UIT** · *Aug 2024 – Present*  
+  Working on post-transfer selective inference under **Dr. Vo Nguyen Le Duy**. :contentReference[oaicite:1]{index=1}
 
 ## 🔬 Publications
-- **Selective Inference for Transfer Learning** – under review at *Statistics and Computing*, 2025 – arXiv preprint [[2504.18212]](https://arxiv.org/pdf/2504.18212)  
-- **MAVERICS: A CPU‑Friendly Multimodal Event Retrieval System** – *SOICT 2024* [[paper]](https://link.springer.com/chapter/10.1007/978-981-96-4291-5_12)  
+- **Post-Transfer Learning Statistical Inference in High-Dimensional Regression** — arXiv, 2025.  
+  Tam, My, & Duy. [[arXiv:2504.18212]](https://arxiv.org/abs/2504.18212) :contentReference[oaicite:2]{index=2}
 
-👉 Full list & BibTeX in [`docs/publications.md`](./docs/publications.md)
+- **MAVERICS: A CPU-Friendly Multimodal Event Retrieval System** — in *Information and Communication Technology (SOICT 2024)*, CCIS 2353, Springer.  
+  [[chapter]](https://link.springer.com/chapter/10.1007/978-981-96-4291-5_12) :contentReference[oaicite:3]{index=3}
 
-## 🚀 Highlight Projects
+👉 See `docs/publications.md` for the full list & BibTeX.
+
+## 🚀 Selected Projects
 | Year | Project | Tech | Links |
-|------|---------|------|-------|
-| 2024 | **MAVERICS**: Multimodal Event Retrieval | BLIP2, YOLOWorldv2, WhisperX | [paper](https://link.springer.com/chapter/10.1007/978-981-96-4291-5_12) · [code](https://github.com/NgVuxKhaiTam/MAVERICS) |
-| 2024 | **Credit Risk Model Stability** | LightGBM, CatBoost, FE | [silver notebook](https://github.com/NgVuxKhaiTam/CS116.O22_PythonforML_Home-Credit-Risk-Kaggle) |
-| 2023 | **Banner Diffusion** | Stable Diffusion, QLoRA | — |
-
-<!-- <details>
-<summary>More projects…</summary>
-
-- **UIT Bike‑Make Classification** – Fine‑tuned DinoV2 to classify motorbike brands  
-- **Face‑Attendance WebApp** – Flask + CNN face recognition for school attendance  
-- **COVID‑19 Delivery Rover** – Raspberry Pi self‑driving robot for isolation zones  
-
-</details> -->
+|------|---------|------|------|
+| 2024 | **MAVERICS**: Multimodal event retrieval | BLIP2, YOLOWorldv2, PP-OCR, WhisperX | [paper](https://link.springer.com/chapter/10.1007/978-981-96-4291-5_12) · [code](https://github.com/NgVuxKhaiTam/MAVERICS) :contentReference[oaicite:4]{index=4} |
+| 2024 | **Home Credit – Credit Risk Model Stability** | LightGBM, CatBoost, FE | [notebook](https://github.com/NgVuxKhaiTam/CS116.O22_PythonforML_Home-Credit-Risk-Kaggle) |
+| 2024 | **Motorbike Brand Classification** | DINOv2, PyTorch | [code](https://github.com/NgVuxKhaiTam/CS114.O21-MachineLearning/tree/main/Competition1_2_3) |
 
 ## 📈 GitHub Stats
-![Tâm's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NgVuxKhaiTam&show_icons=true&hide_border=true)  
+![Tam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NgVuxKhaiTam&show_icons=true&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NgVuxKhaiTam&layout=compact&hide_border=true)
 
-## 📄 Curriculum Vitae
-📑 [Download my CV](./docs/assets/cv.pdf) · 🎨 [Portfolio](./docs/assets/portfolio.pdf)
+## 📄 CV & Portfolio
+📑 [Download CV](./docs/assets/cv.pdf) · 🎨 [Portfolio](./docs/assets/portfolio.pdf)
 
 ## 🌐 Contact
-**Email:** tamnvk0114@gmail.com • **LinkedIn:** [linkedin.com/in/khaitam](https://www.linkedin.com)  
+**Email:** tamnvk0114@gmail.com • **LinkedIn:** [linkedin.com/in/nguyenvukhaitam](https://www.linkedin.com/in/nguyenvukhaitam/)  
 
 ---
-*Last updated: 2025-07-05*
+*Last updated: 2025-09-14*
